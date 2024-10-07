@@ -1,4 +1,5 @@
 # Contains scripts that can automate tasks
+
 ## **Developed scripts:**
 1. **install_*version*:** install applications using winget by id.
 2. **uninstall_*version*:** uninstall applications using winget by id.
